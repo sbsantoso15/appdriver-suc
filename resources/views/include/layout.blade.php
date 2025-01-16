@@ -135,7 +135,7 @@
                             <li>
                                 <a href="{{route('driver.index')}}" class="waves-effect">
                                     <i class="bx bxs-user-circle"></i>
-                                    <span key="t-driver">Sopir</span>
+                                    <span key="t-driver">Driver</span>
                                 </a>
                             </li>
 
